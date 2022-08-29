@@ -1,4 +1,4 @@
-# zero_da
+# zero_day
 
 ## READ ME.
 
